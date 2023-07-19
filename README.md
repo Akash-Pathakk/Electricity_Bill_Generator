@@ -1,1 +1,1 @@
-# fhh
+Simple Java Bill Generator
